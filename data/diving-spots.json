@@ -1,0 +1,441 @@
+{
+  "spots": [
+    {
+      "id": "green-island",
+      "name": "綠島（柴口、大白沙等）",
+      "nameEn": "Green Island",
+      "lat": 22.6761,
+      "lng": 121.4797,
+      "type": "scuba",
+      "depthM": 18,
+      "visibility": "15–30 m",
+      "bestSeason": "4–10 月",
+      "description": "黑潮帶來清澈海水與豐富珊瑚礁，為台灣最具代表性的潛點之一。",
+      "descriptionEn": "Kuroshio-fed clear water and coral reefs; one of Taiwan's signature destinations.",
+      "safetyNotes": "注意海流與船隻交通；依規定使用浮力裝置與潛水旗。",
+      "safetyNotesEn": "Watch currents and boat traffic; use SMB/flag per local practice.",
+      "popularity": 10,
+      "tags": [
+        "珊瑚",
+        "能見度佳"
+      ]
+    },
+    {
+      "id": "orchid-island",
+      "name": "蘭嶼（開元港周邊）",
+      "nameEn": "Orchid Island (Lanyu)",
+      "lat": 22.052,
+      "lng": 121.535,
+      "type": "scuba",
+      "depthM": 25,
+      "visibility": "20–40 m",
+      "bestSeason": "4–9 月",
+      "description": "火山島地形與陡降坡，能見度常極佳，適合進階路線規劃。",
+      "descriptionEn": "Volcanic terrain with drop-offs; often excellent viz for advanced planning.",
+      "safetyNotes": "離島醫療資源有限；天候變化快，需保留安全餘裕。",
+      "safetyNotesEn": "Limited medical facilities offshore; weather changes quickly.",
+      "popularity": 9,
+      "tags": [
+        "離島",
+        "地形"
+      ]
+    },
+    {
+      "id": "kenting-houbihu",
+      "name": "墾丁後壁湖",
+      "nameEn": "Kenting Houbihu",
+      "lat": 21.958,
+      "lng": 120.745,
+      "type": "scuba",
+      "depthM": 12,
+      "visibility": "8–20 m",
+      "bestSeason": "全年（冬季較冷）",
+      "description": "保護區內珊瑚與熱帶魚類集中，適合訓練與休閒潛水。",
+      "descriptionEn": "Protected area with dense coral and fish; good for training and fun dives.",
+      "safetyNotes": "假日人潮與浮潛者眾多，注意水面活動與浮力控制。",
+      "safetyNotesEn": "Crowded on holidays; mind snorkelers and buoyancy.",
+      "popularity": 10,
+      "tags": [
+        "保護區",
+        "親子友善"
+      ]
+    },
+    {
+      "id": "xiaoliuqiu",
+      "name": "小琉球花瓶岩",
+      "nameEn": "Liuqiu Vase Rock",
+      "lat": 22.339,
+      "lng": 120.372,
+      "type": "scuba",
+      "depthM": 15,
+      "visibility": "10–25 m",
+      "bestSeason": "4–10 月",
+      "description": "珊瑚礁海岸與海龜棲地，能見度穩定時體驗極佳。",
+      "descriptionEn": "Reef coast and turtle habitat; great when viz is stable.",
+      "safetyNotes": "海龜為保育類，禁止觸摸與追逐；保持距離。",
+      "safetyNotesEn": "Sea turtles are protected — no touching or chasing.",
+      "popularity": 9,
+      "tags": [
+        "海龜",
+        "珊瑚"
+      ]
+    },
+    {
+      "id": "northeast-longdong",
+      "name": "東北角龍洞",
+      "nameEn": "Longdong (Northeast Coast)",
+      "lat": 25.115,
+      "lng": 121.918,
+      "type": "scuba",
+      "depthM": 20,
+      "visibility": "5–15 m",
+      "bestSeason": "5–10 月",
+      "description": "北台灣最方便的岸潛區之一，地形變化與微距生態豐富。",
+      "descriptionEn": "Accessible shore diving in northern Taiwan; macro-friendly terrain.",
+      "safetyNotes": "東北季風期浪況大，務必確認海象與入水點。",
+      "safetyNotesEn": "Rough in NE monsoon — check sea state and entry points.",
+      "popularity": 8,
+      "tags": [
+        "岸潛",
+        "北台灣"
+      ]
+    },
+    {
+      "id": "penghu-wangankou",
+      "name": "澎湖望安網垵口",
+      "nameEn": "Penghu Wangankou",
+      "lat": 23.369,
+      "lng": 119.504,
+      "type": "scuba",
+      "depthM": 14,
+      "visibility": "8–18 m",
+      "bestSeason": "4–10 月",
+      "description": "沙灘與淺礁交錯，適合輕鬆漫潛與夜潛觀察。",
+      "descriptionEn": "Sand and shallow reef mix; relaxed diving and night critters.",
+      "safetyNotes": "潮汐與水流可能影響入出水；夜潛需結伴與燈號。",
+      "safetyNotesEn": "Tides/current affect entries; night dives need buddy and lights.",
+      "popularity": 7,
+      "tags": [
+        "離島",
+        "夜潛"
+      ]
+    },
+    {
+      "id": "freedive-green-deep",
+      "name": "綠島自由潛水（開放水域）",
+      "nameEn": "Green Island Freediving",
+      "lat": 22.664,
+      "lng": 121.485,
+      "type": "freedive",
+      "depthM": 20,
+      "visibility": "15–30 m",
+      "bestSeason": "5–9 月",
+      "description": "深水訓練與深度課程常選地點，海況穩定時能見度佳。",
+      "descriptionEn": "Popular for depth training when conditions are stable.",
+      "safetyNotes": "自由潛水須遵守安全戒護與恢復呼吸規範；禁止獨潛。",
+      "safetyNotesEn": "Use proper safety protocols; never freedive alone.",
+      "popularity": 8,
+      "tags": [
+        "深度訓練"
+      ]
+    },
+    {
+      "id": "freedive-kenting",
+      "name": "墾丁自由潛水（海域訓練）",
+      "nameEn": "Kenting Freediving",
+      "lat": 21.972,
+      "lng": 120.798,
+      "type": "freedive",
+      "depthM": 16,
+      "visibility": "10–22 m",
+      "bestSeason": "4–10 月",
+      "description": "平靜海域利於初階與中階課程，搭配岸邊教學設施。",
+      "descriptionEn": "Calm areas suit beginner to intermediate line training.",
+      "safetyNotes": "注意水面船隻與浮球標示；遵守教練戒護指令。",
+      "safetyNotesEn": "Mind boat traffic and surface markers; follow coach briefings.",
+      "popularity": 8,
+      "tags": [
+        "課程"
+      ]
+    },
+    {
+      "id": "freedive-xiaoliuqiu",
+      "name": "小琉球自由潛水",
+      "nameEn": "Liuqiu Freediving",
+      "lat": 22.341,
+      "lng": 120.369,
+      "type": "freedive",
+      "depthM": 12,
+      "visibility": "12–25 m",
+      "bestSeason": "4–10 月",
+      "description": "淺礁與沙地適合恆重與攀繩練習，生態觀察豐富。",
+      "descriptionEn": "Shallow reef and sand for CWT and line practice.",
+      "safetyNotes": "保育區內避免觸底揚沙；與浮潛者保持安全距離。",
+      "safetyNotesEn": "Avoid stirring sand in protected zones; distance from snorkelers.",
+      "popularity": 7,
+      "tags": [
+        "淺水"
+      ]
+    },
+    {
+      "id": "freedive-longdong",
+      "name": "東北角自由潛水",
+      "nameEn": "Longdong Freediving",
+      "lat": 25.112,
+      "lng": 121.92,
+      "type": "freedive",
+      "depthM": 15,
+      "visibility": "5–12 m",
+      "bestSeason": "6–9 月",
+      "description": "北部少有之開放訓練點，夏季海況較適合深度練習。",
+      "descriptionEn": "One of few northern open training spots; summer is more reliable.",
+      "safetyNotes": "水溫較低需保暖；注意浪與离岸流。",
+      "safetyNotesEn": "Cooler water — suit up; watch swell and rip currents.",
+      "popularity": 6,
+      "tags": [
+        "北部"
+      ]
+    },
+    {
+      "id": "kenting-wanlitong",
+      "name": "墾丁萬里桐",
+      "nameEn": "Kenting Wanlitong",
+      "lat": 21.989,
+      "lng": 120.705,
+      "type": "scuba",
+      "depthM": 10,
+      "visibility": "8–18 m",
+      "bestSeason": "全年（夏季最佳）",
+      "description": "台灣馬爾地夫般的無敵海景，沙地與珊瑚交錯，適合新手岸潛與拍照。常見小丑魚與熱帶魚群。",
+      "descriptionEn": "Maldives-like scenery in Taiwan. Sandy bottom mixed with coral, perfect for beginner shore dives and photography.",
+      "safetyNotes": "岸潛為主，注意礁石與潮汐；假日浮潛者多，保持浮力控制。",
+      "safetyNotesEn": "Mainly shore dive; watch tides and rocks. Busy with snorkelers on holidays.",
+      "popularity": 9,
+      "tags": [
+        "新手友善",
+        "岸潛",
+        "拍照聖地"
+      ]
+    },
+    {
+      "id": "kenting-chuanfan",
+      "name": "墾丁船帆石",
+      "nameEn": "Kenting Chuanfan Rock",
+      "lat": 21.932,
+      "lng": 120.822,
+      "type": "scuba",
+      "depthM": 12,
+      "visibility": "10–20 m",
+      "bestSeason": "3–6 月（沙丁魚季）",
+      "description": "春夏常有沙丁魚風暴，珊瑚礁與魚群壯觀，適合中級潛水。",
+      "descriptionEn": "Famous for sardine tornado in spring/summer. Spectacular fish balls and reefs.",
+      "safetyNotes": "沙丁魚季魚群密集，注意方向感；有時有強流。",
+      "safetyNotesEn": "Dense fish schools during sardine season — maintain orientation.",
+      "popularity": 8,
+      "tags": [
+        "魚群",
+        "沙丁魚"
+      ]
+    },
+    {
+      "id": "green-island-damushroom",
+      "name": "綠島大香菇（石朗）",
+      "nameEn": "Green Island Big Mushroom (Shilang)",
+      "lat": 22.658,
+      "lng": 121.47,
+      "type": "scuba",
+      "depthM": 20,
+      "visibility": "20–40 m",
+      "bestSeason": "4–10 月",
+      "description": "全世界最大的微孔珊瑚體之一（估計1200年以上），石朗保護區內經典潛點。",
+      "descriptionEn": "One of the world's largest micro-atoll corals, estimated over 1,200 years old.",
+      "safetyNotes": "保護區內禁止觸碰珊瑚；能見度高但注意海流。",
+      "safetyNotesEn": "No touching coral in protected area; strong currents possible.",
+      "popularity": 10,
+      "tags": [
+        "珊瑚巨擘",
+        "世界級"
+      ]
+    },
+    {
+      "id": "green-island-steel-reef",
+      "name": "綠島鋼鐵礁",
+      "nameEn": "Green Island Steel Reef",
+      "lat": 22.65,
+      "lng": 121.48,
+      "type": "scuba",
+      "depthM": 24,
+      "visibility": "15–35 m",
+      "bestSeason": "4–10 月",
+      "description": "人工魚礁吸引大量燕魚，常出現「燕魚風暴」，夜潛也很精彩。",
+      "descriptionEn": "Artificial reefs famous for batfish swarms — sometimes called 'batfish storm'.",
+      "safetyNotes": "深度較深，適合有經驗者；夜潛需燈具與結伴。",
+      "safetyNotesEn": "Deeper site; good for experienced divers. Lights required for night dives.",
+      "popularity": 9,
+      "tags": [
+        "燕魚",
+        "夜潛"
+      ]
+    },
+    {
+      "id": "lanyu-yunu",
+      "name": "蘭嶼玉女岩",
+      "nameEn": "Lanyu Yunu Rock",
+      "lat": 22.08,
+      "lng": 121.51,
+      "type": "scuba",
+      "depthM": 18,
+      "visibility": "20–45 m",
+      "bestSeason": "4–9 月",
+      "description": "蘭嶼經典地形潛點，陡坡與珊瑚豐富，常見大型魚類。",
+      "descriptionEn": "Iconic drop-off site with rich coral and pelagic fish.",
+      "safetyNotes": "黑潮影響，海流較強；建議船潛並有經驗者前往。",
+      "safetyNotesEn": "Strong Kuroshio currents possible; boat dive recommended.",
+      "popularity": 9,
+      "tags": [
+        "陡坡",
+        "黑潮"
+      ]
+    },
+    {
+      "id": "lanyu-badaivan-wreck",
+      "name": "蘭嶼八代灣沉船",
+      "nameEn": "Lanyu Badaivan Wreck",
+      "lat": 22.04,
+      "lng": 121.55,
+      "type": "scuba",
+      "depthM": 25,
+      "visibility": "25–50 m",
+      "bestSeason": "4–9 月",
+      "description": "沉船遺跡與周邊陡壁，能見度極高，適合進階潛水。",
+      "descriptionEn": "Shipwreck with dramatic walls and exceptional visibility.",
+      "safetyNotes": "深度與海流需注意；醫療資源有限。",
+      "safetyNotesEn": "Deeper wreck dive; limited medical facilities on island.",
+      "popularity": 8,
+      "tags": [
+        "沉船",
+        "進階"
+      ]
+    },
+    {
+      "id": "xiaoliuqiu-meirendong",
+      "name": "小琉球美人洞",
+      "nameEn": "Xiaoliuqiu Beauty Cave",
+      "lat": 22.33,
+      "lng": 120.38,
+      "type": "scuba",
+      "depthM": 12,
+      "visibility": "10–25 m",
+      "bestSeason": "全年（夏季最佳）",
+      "description": "小琉球海龜密度最高區域之一，珊瑚與海龜幾乎每次都可見。",
+      "descriptionEn": "Highest sea turtle density site on Xiaoliuqiu; turtles almost guaranteed.",
+      "safetyNotes": "嚴禁觸摸或追逐海龜；保護區規則嚴格。",
+      "safetyNotesEn": "Strictly no touching or chasing turtles.",
+      "popularity": 10,
+      "tags": [
+        "海龜天堂"
+      ]
+    },
+    {
+      "id": "xiaoliuqiu-longxiadong",
+      "name": "小琉球龍蝦洞",
+      "nameEn": "Xiaoliuqiu Lobster Cave",
+      "lat": 22.345,
+      "lng": 120.385,
+      "type": "scuba",
+      "depthM": 15,
+      "visibility": "8–20 m",
+      "bestSeason": "4–10 月",
+      "description": "洞穴地形與豐富生態，適合中級潛水，常見龍蝦與海龜。",
+      "descriptionEn": "Cave-like terrain with lobsters and turtles.",
+      "safetyNotes": "洞穴區域需小心導航；注意水流。",
+      "safetyNotesEn": "Careful navigation near caves; currents possible.",
+      "popularity": 8,
+      "tags": [
+        "洞穴",
+        "海龜"
+      ]
+    },
+    {
+      "id": "penghu-qimei",
+      "name": "澎湖七美島",
+      "nameEn": "Penghu Qimei Island",
+      "lat": 23.2,
+      "lng": 119.42,
+      "type": "scuba",
+      "depthM": 16,
+      "visibility": "10–25 m",
+      "bestSeason": "4–10 月",
+      "description": "澎湖外島代表潛點，沙灘與珊瑚交錯，適合全家與輕鬆潛水。",
+      "descriptionEn": "Classic Penghu island dive with beaches and coral gardens.",
+      "safetyNotes": "離島天候變化快；注意潮汐與船隻。",
+      "safetyNotesEn": "Remote island — weather changes quickly.",
+      "popularity": 7,
+      "tags": [
+        "離島",
+        "家庭友善"
+      ]
+    },
+    {
+      "id": "freedive-bitou",
+      "name": "鼻頭角自由潛水",
+      "nameEn": "Bitou Cape Freediving",
+      "lat": 25.128,
+      "lng": 121.92,
+      "type": "freedive",
+      "depthM": 10,
+      "visibility": "5–15 m",
+      "bestSeason": "5–10 月",
+      "description": "北部岸潛友善區域，奇岩地形與豐富微距生態，適合自由潛水練習。",
+      "descriptionEn": "Accessible northern shore spot with unique rock formations and macro life.",
+      "safetyNotes": "東北季風期浪大；注意離岸流。",
+      "safetyNotesEn": "Rough during NE monsoon; watch rip currents.",
+      "popularity": 7,
+      "tags": [
+        "北部",
+        "岸潛",
+        "微距"
+      ]
+    },
+    {
+      "id": "kenting-nanwan",
+      "name": "墾丁南灣",
+      "nameEn": "Kenting Nanwan",
+      "lat": 21.968,
+      "lng": 120.794,
+      "type": "freedive",
+      "depthM": 14,
+      "visibility": "10–22 m",
+      "bestSeason": "4–10 月",
+      "description": "平緩沙地與珊瑚，適合初學與中階自由潛水課程。",
+      "descriptionEn": "Gentle sandy bottom ideal for beginner to intermediate freediving training.",
+      "safetyNotes": "注意水面船隻與浮潛者；遵守教練指示。",
+      "safetyNotesEn": "Watch boat traffic and snorkelers.",
+      "popularity": 8,
+      "tags": [
+        "課程",
+        "初學"
+      ]
+    },
+    {
+      "id": "penghu-wangyou",
+      "name": "澎湖忘憂島（南方四島）",
+      "nameEn": "Penghu Wangyou Island",
+      "lat": 23.25,
+      "lng": 119.55,
+      "type": "scuba",
+      "depthM": 18,
+      "visibility": "12–28 m",
+      "bestSeason": "4–9 月",
+      "description": "夢幻紫色珊瑚森林，南方四島國家公園內，生態保護完善。",
+      "descriptionEn": "Dreamlike purple coral forests in the Southern Four Islands National Park.",
+      "safetyNotes": "國家公園規則嚴格；需船潛並遵守生態規範。",
+      "safetyNotesEn": "Strict national park rules; boat dive only.",
+      "popularity": 8,
+      "tags": [
+        "紫色珊瑚",
+        "國家公園"
+      ]
+    }
+  ]
+}
