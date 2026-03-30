@@ -18,6 +18,42 @@
       "tags": [
         "珊瑚",
         "能見度佳"
+      ],
+      "shops": [
+        {
+          "name": "綠島潛水中心（示範）",
+          "nameEn": "Green Island Dive Center (demo)",
+          "phone": "089-671234",
+          "line": "@demo-green-dive",
+          "website": "https://example.com/green-dive",
+          "note": "提供裝備租借與船潛排程，旺季建議提前預約。",
+          "noteEn": "Gear rental and boat dives; book ahead in peak season."
+        },
+        {
+          "name": "柴口岸潛站（示範）",
+          "nameEn": "Chaikou shore base (demo)",
+          "phone": "089-672000",
+          "note": "岸潛導潛與氣瓶填充，請依現場海象簡報。",
+          "noteEn": "Shore guiding and fills — follow on-site briefings."
+        }
+      ],
+      "coaches": [
+        {
+          "name": "王小明",
+          "nameEn": "Ming Wang",
+          "specialty": "水肺 DM／救援",
+          "contact": "coach.demo@example.com",
+          "note": "示範聯絡資料，非真實服務。",
+          "noteEn": "Demo contact only."
+        },
+        {
+          "name": "林教練",
+          "nameEn": "Coach Lin",
+          "specialty": "自由潛水 L3",
+          "contact": "LINE: @demo-lin",
+          "note": "開放水域與深度訓練需事先評估體能。",
+          "noteEn": "OW and depth training by assessment."
+        }
       ]
     },
     {
@@ -58,6 +94,26 @@
       "tags": [
         "保護區",
         "親子友善"
+      ],
+      "shops": [
+        {
+          "name": "後壁湖潛水街（示範）",
+          "nameEn": "Houbihu dive row (demo)",
+          "phone": "08-8861234",
+          "website": "https://example.com/houbihu",
+          "note": "多間潛店聚集，可比較課程與船班。",
+          "noteEn": "Cluster of shops — compare courses and boats."
+        }
+      ],
+      "coaches": [
+        {
+          "name": "阿凱教練",
+          "nameEn": "Coach Kai",
+          "specialty": "水肺 OW／AOW",
+          "contact": "089-000111",
+          "note": "提供中文／英文簡報。",
+          "noteEn": "Briefings in Chinese or English."
+        }
       ]
     },
     {
@@ -78,6 +134,32 @@
       "tags": [
         "海龜",
         "珊瑚"
+      ],
+      "shops": [
+        {
+          "name": "小琉球潛水之家（示範）",
+          "nameEn": "Liuqiu Dive House (demo)",
+          "phone": "08-8612345",
+          "line": "@demo-liuqiu",
+          "note": "花瓶岩、龍蝦洞等船潛／岸潛套裝行程。",
+          "noteEn": "Boat and shore packages for classic sites."
+        },
+        {
+          "name": "琉球海龜浮潛（示範）",
+          "nameEn": "Turtle snorkel (demo)",
+          "note": "僅浮潛／體驗；深潛請洽專業潛店。",
+          "noteEn": "Snorkel / try dives only for this demo entry."
+        }
+      ],
+      "coaches": [
+        {
+          "name": "陳教練",
+          "nameEn": "Coach Chen",
+          "specialty": "水肺 DM、海龜導覽",
+          "contact": "coach.chen@example.com",
+          "note": "示範資料。",
+          "noteEn": "Demo contact."
+        }
       ]
     },
     {
