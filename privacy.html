@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="zh-TW">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#09090b" />
+    <meta
+      name="description"
+      content="台灣潛水情報儀表板 — 隱私權政策（靜態前端、無帳號伺服器）"
+    />
+    <title>隱私權政策 · 台灣潛水情報儀表板</title>
+    <style>
+      :root {
+        --bg: #09090b;
+        --fg: #e4e4e7;
+        --muted: #a1a1aa;
+        --dim: #71717a;
+        --border: #27272a;
+        --accent: #22d3ee;
+        --accent-dim: rgba(34, 211, 238, 0.85);
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        min-height: 100dvh;
+        font-family:
+          ui-sans-serif,
+          system-ui,
+          -apple-system,
+          "Segoe UI",
+          Roboto,
+          "Noto Sans TC",
+          sans-serif;
+        background: var(--bg);
+        color: var(--fg);
+        line-height: 1.65;
+        font-size: 15px;
+      }
+      a {
+        color: var(--accent-dim);
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      .wrap {
+        max-width: 40rem;
+        margin: 0 auto;
+        padding: 1.25rem max(1rem, env(safe-area-inset-left)) 2rem max(1rem, env(safe-area-inset-right));
+      }
+      .top {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 0.75rem 1rem;
+        padding-bottom: 1rem;
+        margin-bottom: 1.25rem;
+        border-bottom: 1px solid var(--border);
+      }
+      .back {
+        display: inline-flex;
+        align-items: center;
+        padding: 0.35rem 0.75rem;
+        border: 1px solid var(--border);
+        border-radius: 0.375rem;
+        background: rgba(9, 9, 11, 0.6);
+        font-size: 0.8125rem;
+        font-weight: 500;
+      }
+      .back:hover {
+        border-color: rgba(34, 211, 238, 0.35);
+        background: #18181b;
+        text-decoration: none;
+      }
+      .nav-jump {
+        font-size: 0.8125rem;
+        color: var(--dim);
+      }
+      .nav-jump a {
+        margin-right: 0.75rem;
+      }
+      h1 {
+        font-size: 1.375rem;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        margin: 0 0 0.25rem;
+      }
+      .sub {
+        font-size: 0.8125rem;
+        color: var(--muted);
+        margin: 0 0 1.5rem;
+      }
+      h2 {
+        font-size: 1.05rem;
+        font-weight: 600;
+        margin: 1.75rem 0 0.5rem;
+        padding-top: 0.25rem;
+      }
+      h2:first-of-type {
+        margin-top: 0;
+      }
+      p,
+      ul {
+        margin: 0 0 0.75rem;
+        color: var(--muted);
+      }
+      ul {
+        padding-left: 1.25rem;
+      }
+      li {
+        margin-bottom: 0.35rem;
+      }
+      .note {
+        font-size: 0.8125rem;
+        color: var(--dim);
+        border-top: 1px solid var(--border);
+        margin-top: 2rem;
+        padding-top: 1rem;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="top">
+        <a class="back" href="./">← 返回儀表板 / Back to app</a>
+        <span class="nav-jump"><a href="#zh">中文</a><a href="#en">English</a></span>
+      </div>
+
+      <h1 id="zh">隱私權政策（繁體中文）</h1>
+      <p class="sub">最後更新：2026-03-31。本頁說明「台灣潛水情報儀表板」網站（以下稱本站）如何處理您的資訊。</p>
+
+      <h2>1. 資料蒐集與使用</h2>
+      <p>
+        本站為<strong>純前端</strong>網頁應用，主要資料來自您瀏覽器載入的<strong>靜態公開檔案</strong>（例如潛點列表
+        JSON）。本站<strong>未建置後端伺服器</strong>以儲存您的個人帳號或潛水紀錄。
+      </p>
+      <p>
+        若您使用裝置或瀏覽器之<strong>本機儲存</strong>（例如 <code>localStorage</code>），僅用於記住與介面相關的設定（例如地圖顯示模式），資料留在您的裝置上，本站無法遠端讀取。
+      </p>
+
+      <h2>2. 示範登入</h2>
+      <p>
+        畫面上之「登入」為<strong>介面示範</strong>，並非連線至真實驗證服務；請勿輸入任何實際密碼或敏感資料。
+      </p>
+
+      <h2>3. 意見回饋</h2>
+      <p>
+        若您透過表單或電子郵件提供聯絡方式或內容，該等資訊之處理方式依<strong>您所使用之表單／郵件服務提供者</strong>及其設定為準；請於送出前確認第三方服務之隱私條款。
+      </p>
+
+      <h2>4. 地圖與第三方內容</h2>
+      <p>
+        地圖圖磚、字型或外部資源可能由<strong>第三方</strong>提供。當您的瀏覽器向這些服務請求內容時，可能會傳送技術性資訊（例如 IP、User-Agent）。請參考各提供者之隱私政策。
+      </p>
+
+      <h2>5. Cookie 與類似技術</h2>
+      <p>
+        本站可能因 PWA（可安裝網頁）或瀏覽器快取機制而於您的裝置存放資料；其用途以<strong>離線可用性與效能</strong>為主。您可透過瀏覽器設定管理快取與網站資料。
+      </p>
+
+      <h2>6. 變更</h2>
+      <p>本政策可能隨功能調整而更新；更新後之版本將公告於本頁。</p>
+
+      <h2>7. 聯絡</h2>
+      <p>若您對本政策有疑問，請透過站內「意見回饋」或管理員提供之管道聯繫。</p>
+
+      <hr style="border: none; border-top: 1px solid var(--border); margin: 2.5rem 0 1.5rem" />
+
+      <h1 id="en">Privacy policy (English)</h1>
+      <p class="sub">Last updated: 2026-03-31. This page describes how the “Taiwan Dive Intelligence Dashboard” site (“the site”) handles information.</p>
+
+      <h2>1. Data collection and use</h2>
+      <p>
+        The site is a <strong>client-side</strong> web app. Content is loaded from <strong>static public files</strong> (for example dive-site JSON). There is <strong>no backend operated by this project</strong> to store personal accounts or dive logs.
+      </p>
+      <p>
+        If your browser uses <strong>local storage</strong> (for example <code>localStorage</code>), it is used for UI-related preferences (such as map mode) and stays on your device; the site cannot read it remotely.
+      </p>
+
+      <h2>2. Demo login</h2>
+      <p>
+        Any “login” shown is a <strong>UI demo</strong> and does not connect to a real authentication service. Do not enter real passwords or sensitive data.
+      </p>
+
+      <h2>3. Feedback</h2>
+      <p>
+        If you send contact details or messages via a form or email, processing depends on the <strong>form/email provider</strong> you use. Check their privacy terms before submitting.
+      </p>
+
+      <h2>4. Maps and third-party content</h2>
+      <p>
+        Map tiles, fonts, or other assets may be provided by <strong>third parties</strong>. Requests from your browser may include technical data (such as IP address, user agent). Refer to each provider’s policy.
+      </p>
+
+      <h2>5. Cookies and similar technologies</h2>
+      <p>
+        The site may store data on your device for PWA/offline use and caching. You can manage site data in your browser settings.
+      </p>
+
+      <h2>6. Changes</h2>
+      <p>This policy may be updated; the current version is posted on this page.</p>
+
+      <h2>7. Contact</h2>
+      <p>For questions, use the in-app feedback channel or the contact method provided by the site operator.</p>
+
+      <p class="note">
+        <a href="./">← 返回儀表板 / Back to app</a>
+      </p>
+    </div>
+  </body>
+</html>
