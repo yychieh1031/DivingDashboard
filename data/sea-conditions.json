@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T15:12:25.227Z",
+  "generatedAt": "2026-09-05T20:19:15.704Z",
   "sources": [
     "https://opendata.cwa.gov.tw/dataset/all/F-D0047-035",
     "https://opendata.cwa.gov.tw/dataset/all/F-D0047-039",
@@ -24,7 +24,7 @@
           "startTime": "2026-09-06T06:00:00+08:00",
           "endTime": "2026-09-06T18:00:00+08:00",
           "windSpeed": "9 公尺/秒 · 蒲福 5",
-          "windDir": "西北風",
+          "windDir": "偏西風",
           "pop": 70,
           "wx": "陰短暫陣雨"
         },
@@ -410,7 +410,7 @@
           "startTime": "2026-09-08T06:00:00+08:00",
           "endTime": "2026-09-08T18:00:00+08:00",
           "windSpeed": "2 公尺/秒 · 蒲福 2",
-          "windDir": "偏北風",
+          "windDir": "西北風",
           "pop": 20,
           "wx": "晴時多雲"
         },
@@ -1708,7 +1708,7 @@
           "startTime": "2026-09-08T06:00:00+08:00",
           "endTime": "2026-09-08T18:00:00+08:00",
           "windSpeed": "2 公尺/秒 · 蒲福 2",
-          "windDir": "偏北風",
+          "windDir": "西北風",
           "pop": 20,
           "wx": "晴時多雲"
         },
@@ -2127,7 +2127,7 @@
           "startTime": "2026-09-12T18:00:00+08:00",
           "endTime": "2026-09-13T06:00:00+08:00",
           "windSpeed": "4 公尺/秒 · 蒲福 3",
-          "windDir": "西北風",
+          "windDir": "偏西風",
           "wx": "晴時多雲"
         }
       ]
@@ -2245,7 +2245,7 @@
           "startTime": "2026-09-12T18:00:00+08:00",
           "endTime": "2026-09-13T06:00:00+08:00",
           "windSpeed": "4 公尺/秒 · 蒲福 3",
-          "windDir": "西北風",
+          "windDir": "偏西風",
           "wx": "晴時多雲"
         }
       ]
