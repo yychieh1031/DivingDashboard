@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T11:31:35.547Z",
+  "generatedAt": "2026-09-16T16:53:45.572Z",
   "sources": [
     "https://opendata.cwa.gov.tw/dataset/all/F-D0047-035",
     "https://opendata.cwa.gov.tw/dataset/all/F-D0047-039",
@@ -13,9 +13,9 @@
       "townshipName": "瑞芳區",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
-          "windSpeed": "3 公尺/秒 · 蒲福 2",
+          "windSpeed": "2 公尺/秒 · 蒲福 2",
           "windDir": "東北風",
           "pop": 20,
           "wx": "多雲時晴"
@@ -131,7 +131,7 @@
       "townshipName": "綠島鄉",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": ">= 11 公尺/秒 · 蒲福 >= 6",
           "windDir": "偏北風",
@@ -249,7 +249,7 @@
       "townshipName": "恆春鎮",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": "6 公尺/秒 · 蒲福 4",
           "windDir": "東北風",
@@ -367,9 +367,9 @@
       "townshipName": "貢寮區",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
-          "windSpeed": "4 公尺/秒 · 蒲福 3",
+          "windSpeed": "3 公尺/秒 · 蒲福 2",
           "windDir": "東北風",
           "pop": 20,
           "wx": "晴時多雲"
@@ -485,7 +485,7 @@
       "townshipName": "琉球鄉",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": "3 公尺/秒 · 蒲福 2",
           "windDir": "偏北風",
@@ -603,7 +603,7 @@
       "townshipName": "綠島鄉",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": ">= 11 公尺/秒 · 蒲福 >= 6",
           "windDir": "偏北風",
@@ -721,7 +721,7 @@
       "townshipName": "綠島鄉",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": ">= 11 公尺/秒 · 蒲福 >= 6",
           "windDir": "偏北風",
@@ -839,7 +839,7 @@
       "townshipName": "綠島鄉",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": ">= 11 公尺/秒 · 蒲福 >= 6",
           "windDir": "偏北風",
@@ -957,7 +957,7 @@
       "townshipName": "恆春鎮",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": "6 公尺/秒 · 蒲福 4",
           "windDir": "東北風",
@@ -1075,11 +1075,11 @@
       "townshipName": "車城鄉",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": "5 公尺/秒 · 蒲福 3",
           "windDir": "東北風",
-          "pop": 20,
+          "pop": 10,
           "wx": "晴時多雲"
         },
         {
@@ -1193,7 +1193,7 @@
       "townshipName": "恆春鎮",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": "6 公尺/秒 · 蒲福 4",
           "windDir": "東北風",
@@ -1311,7 +1311,7 @@
       "townshipName": "恆春鎮",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": "6 公尺/秒 · 蒲福 4",
           "windDir": "東北風",
@@ -1429,12 +1429,12 @@
       "townshipName": "蘭嶼鄉",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": ">= 11 公尺/秒 · 蒲福 >= 6",
           "windDir": "東北風",
-          "pop": 30,
-          "wx": "多雲短暫陣雨"
+          "pop": 20,
+          "wx": "多雲"
         },
         {
           "startTime": "2026-09-17T06:00:00+08:00",
@@ -1547,12 +1547,12 @@
       "townshipName": "蘭嶼鄉",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": ">= 11 公尺/秒 · 蒲福 >= 6",
           "windDir": "東北風",
-          "pop": 30,
-          "wx": "多雲短暫陣雨"
+          "pop": 20,
+          "wx": "多雲"
         },
         {
           "startTime": "2026-09-17T06:00:00+08:00",
@@ -1665,9 +1665,9 @@
       "townshipName": "貢寮區",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
-          "windSpeed": "4 公尺/秒 · 蒲福 3",
+          "windSpeed": "3 公尺/秒 · 蒲福 2",
           "windDir": "東北風",
           "pop": 20,
           "wx": "晴時多雲"
@@ -1783,12 +1783,12 @@
       "townshipName": "蘭嶼鄉",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": ">= 11 公尺/秒 · 蒲福 >= 6",
           "windDir": "東北風",
-          "pop": 30,
-          "wx": "多雲短暫陣雨"
+          "pop": 20,
+          "wx": "多雲"
         },
         {
           "startTime": "2026-09-17T06:00:00+08:00",
@@ -1901,7 +1901,7 @@
       "townshipName": "七美鄉",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": ">= 11 公尺/秒 · 蒲福 >= 6",
           "windDir": "東北風",
@@ -2019,7 +2019,7 @@
       "townshipName": "望安鄉",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": ">= 11 公尺/秒 · 蒲福 >= 6",
           "windDir": "東北風",
@@ -2137,7 +2137,7 @@
       "townshipName": "望安鄉",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": ">= 11 公尺/秒 · 蒲福 >= 6",
           "windDir": "東北風",
@@ -2255,7 +2255,7 @@
       "townshipName": "琉球鄉",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": "3 公尺/秒 · 蒲福 2",
           "windDir": "偏北風",
@@ -2373,7 +2373,7 @@
       "townshipName": "琉球鄉",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": "3 公尺/秒 · 蒲福 2",
           "windDir": "偏北風",
@@ -2491,7 +2491,7 @@
       "townshipName": "琉球鄉",
       "forecast": [
         {
-          "startTime": "2026-09-16T18:00:00+08:00",
+          "startTime": "2026-09-17T00:00:00+08:00",
           "endTime": "2026-09-17T06:00:00+08:00",
           "windSpeed": "3 公尺/秒 · 蒲福 2",
           "windDir": "偏北風",
